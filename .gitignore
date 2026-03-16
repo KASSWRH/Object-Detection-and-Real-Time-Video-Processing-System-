@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pkl
+
+# Videos
+*.mp4
+*.avi
+
+# Output
+outputs/
+
+# OS patterns
+.DS_Store
+Thumbs.db
